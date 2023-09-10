@@ -1,0 +1,11 @@
+#+TITLE: Learning Rust
+#+AUTHOR: Alex
+#+DATE: <2023-09-10 Sun>
+
+* Read the rust book
+
+** TODO Work through the examples <2023-09-11 Mon>
+
+#+BEGIN_SRC rust
+rustup docs --book
+#+END_SRC
